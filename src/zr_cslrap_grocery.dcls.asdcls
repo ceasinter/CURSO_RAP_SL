@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZR_CSLRAP_GROCERY'
+@MappingRole: true
+define role ZR_CSLRAP_GROCERY {
+  grant select on ZR_CSLRAP_GROCERY
+  where TRUE;
+}

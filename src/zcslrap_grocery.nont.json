@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Tipo de nodo de objeto SAP ZCSLRAP_GROCERY",
+    "originalLanguage": "es",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZCSLRAP_GROCERY",
+  "sapObjectType": "ZCSLRAP_GROCERY",
+  "rootNode": true
+}

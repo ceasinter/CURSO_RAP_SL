@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Definición de servicio para ZC_CSLRAP_GROCERY'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_CSLRAP_GROCERY'
+  }
+}
+define service ZUI_CSLRAP_GROCERY_O4 provider contracts odata_v4_ui {
+  expose ZC_CSLRAP_GROCERY as Grocery;
+}
